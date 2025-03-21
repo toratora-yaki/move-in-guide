@@ -1,4 +1,4 @@
-# Move-In Guide
+# Move-In Guide （開発中！！）
 
 ## 概要
 このプロジェクトは、React (Next.js) を使用して構築されたWebアプリケーションで、ユーザーはDiscord IDを使用してログインできます。ユーザー管理はSupabaseを通じて行われ、アプリケーションはDiscordのボイスチャンネルやイベントに関連する情報を表示します。
