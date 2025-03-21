@@ -1,0 +1,24 @@
+{
+  "name": "move-in-guide",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "zustand": "^4.0.0",
+    "supabase-js": "^2.49.1",
+    "prisma": "^3.0.0",
+    "next": "^12.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.0",
+    "vite": "^2.6.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0"
+  }
+}
